@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Base Quiz</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+
+    <div class="quiz-container">
+        <div class="quiz-title">Base Quiz</div>
+        <div class="question" id="question"></div>
+    
+        <div class="choices" id="choices">
+          <!-- Buttons for the choices will be displayed here -->
+        </div>
+    
+        <div id="progress"></div>
+        <div id="score" class="score"></div>
+      </div>
+    
+    <div class="grid">
+        <div id="quiz" class="centered grid__col--8">
+            <h1>Base Quiz</h1>
+          
+            <h2 id="question" class="headline-secondary--grouped"></h2>
+            <h3 id="score"></h3>
+          
+            <p id="choice0"></p>
+            <button id="guess0" class="btn--default">Select Answer</button>
+          
+            <p id="choice1"></p>
+            <button id="guess1" class="btn--default">Select Answer</button>
+          
+            <p id="choice2"></p>
+            <button id="guess2" class="btn--default">Select Answer</button>
+          
+            <p id="choice3"></p>
+            <button id="guess3" class="btn--default">Select Answer</button>
+          
+            <footer>
+              <p id="progress">Question x of y</p>
+              <p>Made with javascript, html5, and css!</p>
+              <a href="http://github.com/zikziny">Click Here To learn Code!</a>
+            </footer>
+          </div>
+          
+    <script src="/script.js"></script>
+  </body>
+</html>
