@@ -6,3 +6,15 @@ BaseQuiz is an interactive quiz designed to help developers and builders get fam
 - Interactive Quizzes: Test your understanding of key concepts and tools used within the Base ecosystem.
 - Instant Feedback: Receive explanations and correct answers after each question to reinforce your learning.
 - Progress Tracking: Track your progress as you go through different quiz levels and topics.
+  
+## Installation
+1. Clone the repository:
+`git clone https://github.com/yourusername/BaseQuiz.git`
+
+2. Install dependencies:
+`cd BaseQuiz`
+`npm install`
+
+## Usage
+Run the quiz locally with:
+`npm start`
