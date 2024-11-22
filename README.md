@@ -18,3 +18,13 @@ BaseQuiz is an interactive quiz designed to help developers and builders get fam
 ## Usage
 Run the quiz locally with:
 `npm start`
+The quiz will launch in your browser, allowing you to start answering questions.
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes and create a pull request.
+   
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
