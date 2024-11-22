@@ -1,1 +1,1 @@
-### JavaScript_Quiz
+# BaseQuiz
